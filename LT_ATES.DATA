@@ -2,7 +2,7 @@
 -- LT-ATES In Italy                                                                  --
 -- LGR, Aquifers with natural flow, confined aquifer, without Pc effect and Rainfall.--
 -- temperature dependent simulations                                                 --
--- ATES_init.DATA: Blackoil data set to be run with ECLIPSE 100                      --
+-- LT_ATES.DATA: Blackoil data set to be run with ECLIPSE 100                      --
 -- Please note, this data set is intended to illustrate the way in                   --
 -- which a blackoil data set can be converted to a thermal data set.                 --
 -- For more information, contact me "Itsme.MasoudManafi@gmail.com".                  --
